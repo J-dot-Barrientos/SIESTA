@@ -1,1 +1,5 @@
-efesff
+La carpeta inclou
+- band_structure.fdf: model
+- structure.fdf: estructura del grafè
+- C.psml: pseudopotencial per l'element carboni
+- band_structure.log i resta de fitxers: sortida (run)
