@@ -1,2 +1,5 @@
 # SIESTA
-Simulacions amb SIESTA: molècula de benzè i cristall de silici. Generació d'imatges de STM. Dijous 15 de maig - Dijous 22 de maig
+Simulacions amb SIESTA.
+Molècula de benzè i cristall de silici.
+Generació d'imatges de Scanning Tunneling Microscopy (STM) del benzè. Dijous 15 de maig - Dijous 22 de maig.
+Estructura de bandes del grafè. Dimarts 27 de maig.
